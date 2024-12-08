@@ -142,3 +142,15 @@ Data for this project was provided by Dr. Rachel Bergstrom. We express gratitude
 1. **Run Code**: Open relevant Jupyter notebooks to replicate findings.
 2. **Review Reports**: Access the detailed PDF reports.
 3. **Collaborate**: Modify or expand projects for further analysis.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+**Prince Upadhyay**
+
+- Email: princeupadhyay1401@Gmail.com
+- GitHub: [Princeu3](https://github.com/Princeu3)
+- LinkedIn: www.linkedin.com/in/princeu
