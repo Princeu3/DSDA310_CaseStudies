@@ -19,17 +19,16 @@ This case study analyzes early childhood education data from the School District
 
 #### 1. **Report**
    - **Files**:
-     - `Final Report Case Study 1.pdf`
-     - `DSDA Senior Seminar Case Study.docx`
+     - `Case_Study_1_Report.pdf`
    - **Description**:
      - The detailed report discusses the methodology, findings, and policy recommendations. It includes sections on data cleaning, descriptive statistics, regression modeling, and policy proposals. Ethical considerations are also addressed.
 
 #### 2. **Slides**
-   - **Files**: `DSDA 300 Case Study 1.pdf`
+   - **Files**: `CS_1_Slides.pdf`
    - **Description**: A presentation summarizing the project, including an introduction, data overview, methodology, key findings, and recommendations. Designed for a 10-minute presentation to stakeholders.
 
 #### 3. **Code**
-   - **Files**: `Case Study 1.ipynb`
+   - **Files**: `CS_1_Code.ipynb`
    - **Description**: A Jupyter Notebook containing Python code for data cleaning, exploratory data analysis, regression modeling, and visualization. Tools like Tableau, Python libraries (e.g., Pandas, Matplotlib), and R are used for deeper analysis.
 
 #### 4. **Data**
@@ -64,12 +63,11 @@ This case study analyzes YouTube channel performance for Nicole Martin Consultin
 
 #### 1. **Report**
    - **Files**:
-     - `Case Study 2 Report.pdf`
-     - `Story of Conversion Loyalty.pdf`
+     - `Case_Study_2_Report.pdf`
    - **Description**: Comprehensive analysis detailing key metrics, trends, and actionable recommendations for improving channel performance. The report tells a "story of strength" to emphasize growth and potential ROI for stakeholders.
 
 #### 2. **Slides**
-   - **Files**: `Project Overview.pdf`
+   - **Files**: `CS_2_Slides.pdf`
    - **Description**: Presentation summarizing results, focusing on metrics like impressions, views, and audience engagement. Includes visually compelling slides for stakeholder communication.
 
 #### 3. **Data**
@@ -106,13 +104,13 @@ This case study focuses on developing and applying Convolutional Neural Networks
 
 #### 1. **Report**
    - **Files**:
-     - `Case 3 Prince Yaksh.pdf`
-     - `Case_Study_3_DSDA310.pdf`
+     - `Case_Study_3_Report.pdf`
+     - `CS_3_Slides.pdf`
    - **Description**:
      - Detailed report and presentation on the methodology, including data preprocessing, CNN architecture, and results. Insights into model accuracy and clinical applicability are discussed.
        
 #### 2. **Code**
-   - **Files**: `Case Study 3 (2).ipynb`
+   - **Files**: `CS_3_Code.ipynb`
    - **Description**: Jupyter Notebook implementing the CNN model, with steps for preprocessing, training, and evaluating EEG signal data.
 
 ### 3. **Data**: 
