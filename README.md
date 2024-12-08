@@ -52,6 +52,7 @@ This case study analyzes early childhood education data from the School District
 ### Acknowledgments
 
 We extend our gratitude to Professor Phan for sharing the dataset and Professor Disha for guiding this study. AI tools were instrumental in streamlining data analysis and enhancing the precision of our models.
+
 ---
 
 ## Case Study 2: YouTube Analytics for Client Engagement
@@ -140,6 +141,6 @@ Data for this project was provided by Dr. Rachel Bergstrom. We express gratitude
 
 ## How to Use This Repository
 
-1. **Run Code**: Open relevant Jupyter notebooks to replicate findings.
-2. **Review Reports**: Access the detailed PDF reports.
-3. **Collaborate**: Modify or expand projects for further analysis.
+**Run Code**: Open relevant Jupyter notebooks to replicate findings.
+**Review Reports**: Access the detailed PDF reports.
+**Collaborate**: Modify or expand projects for further analysis.
