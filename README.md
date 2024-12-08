@@ -18,8 +18,7 @@ This case study analyzes early childhood education data from the School District
 ### Contents
 
 #### 1. **Report**
-   - **Files**:[Case_Study_1_Report.pdf](https://github.com/Princeu3/DSDA310_CaseStudies/blob/main/Case%20Study%201/Case%20Study%201%20Report.pdf)
-     - 
+   - **Files**: [Case_Study_1_Report.pdf](https://github.com/Princeu3/DSDA310_CaseStudies/blob/main/Case%20Study%201/Case%20Study%201%20Report.pdf)
    - **Description**:
      - The detailed report discusses the methodology, findings, and policy recommendations. It includes sections on data cleaning, descriptive statistics, regression modeling, and policy proposals. Ethical considerations are also addressed.
 
@@ -62,16 +61,15 @@ This case study analyzes YouTube channel performance for Nicole Martin Consultin
 ### Contents
 
 #### 1. **Report**
-   - **Files**:
-     - `Case_Study_2_Report.pdf`
+   - **Files**: [Case_Study_2_Report.pdf](https://github.com/Princeu3/DSDA310_CaseStudies/blob/main/Case%20Study%202/Case%20Study%202%20Report.pdf)
    - **Description**: Comprehensive analysis detailing key metrics, trends, and actionable recommendations for improving channel performance. The report tells a "story of strength" to emphasize growth and potential ROI for stakeholders.
 
 #### 2. **Slides**
-   - **Files**: `CS_2_Slides.pdf`
+   - **Files**: [Case_Study_2_Slides.pdf](https://github.com/Princeu3/DSDA310_CaseStudies/blob/main/Case%20Study%202/CS%202%20Slides.pdf)
    - **Description**: Presentation summarizing results, focusing on metrics like impressions, views, and audience engagement. Includes visually compelling slides for stakeholder communication.
 
 #### 3. **Data**
-   - **Files**: `Compiled Data formatted.xlsx`
+   - **Files**: [Case_Study_2_Data.xlsx](https://github.com/Princeu3/DSDA310_CaseStudies/blob/main/Case%20Study%202/Compiled%20Data%20formatted.xlsx)
    - **Description**: Dataset containing YouTube Studio metrics such as impressions, views, CTR, watch time, and audience demographics. Formatted for analysis without additional cleaning.
 
 ### Key Insights
@@ -104,17 +102,17 @@ This case study focuses on developing and applying Convolutional Neural Networks
 
 #### 1. **Report**
    - **Files**:
-     - `Case_Study_3_Report.pdf`
-     - `CS_3_Slides.pdf`
+     - [Case_Study_3_Report.pdf](https://github.com/Princeu3/DSDA310_CaseStudies/blob/main/Case%20Study%203/Case%20Study%203%20Report.pdf)
+     - [Case_Study_3_Slides.pdf](https://github.com/Princeu3/DSDA310_CaseStudies/blob/main/Case%20Study%203/CS%203%20Slides.pdf)
    - **Description**:
      - Detailed report and presentation on the methodology, including data preprocessing, CNN architecture, and results. Insights into model accuracy and clinical applicability are discussed.
        
 #### 2. **Code**
-   - **Files**: `CS_3_Code.ipynb`
+   - **Files**: [CS_3_Code.ipynb](https://github.com/Princeu3/DSDA310_CaseStudies/blob/main/Case%20Study%203/CS%203%20Code.ipynb)
    - **Description**: Jupyter Notebook implementing the CNN model, with steps for preprocessing, training, and evaluating EEG signal data.
 
 ### 3. **Data**: 
-   - **Files**:
+   - **Files**: [CS_3_Datasets](https://github.com/Princeu3/DSDA310_CaseStudies/tree/main/Case%20Study%203)
    - **Description**: The study uses the Bonn EEG dataset, containing 500 full signals (400 seizures, 100 non-seizures) and 11,500 short signals (2,300 seizures, 9,200 non-seizures).
 
 ### Key Insights
