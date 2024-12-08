@@ -19,7 +19,7 @@ This case study analyzes early childhood education data from the School District
 
 #### 1. **Report**
    - **Files**:
-     - `Case_Study_1_Report.pdf`
+     - [CS_1_Code.ipynb](https://github.com/Princeu3/DSDA310_CaseStudies/blob/main/Case%20Study%201/CS%201%20Code.ipynb)
    - **Description**:
      - The detailed report discusses the methodology, findings, and policy recommendations. It includes sections on data cleaning, descriptive statistics, regression modeling, and policy proposals. Ethical considerations are also addressed.
 
