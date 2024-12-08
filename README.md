@@ -18,21 +18,21 @@ This case study analyzes early childhood education data from the School District
 ### Contents
 
 #### 1. **Report**
-   - **Files**:
-     - [CS_1_Code.ipynb](https://github.com/Princeu3/DSDA310_CaseStudies/blob/main/Case%20Study%201/CS%201%20Code.ipynb)
+   - **Files**:[Case_Study_1_Report.pdf](https://github.com/Princeu3/DSDA310_CaseStudies/blob/main/Case%20Study%201/Case%20Study%201%20Report.pdf)
+     - 
    - **Description**:
      - The detailed report discusses the methodology, findings, and policy recommendations. It includes sections on data cleaning, descriptive statistics, regression modeling, and policy proposals. Ethical considerations are also addressed.
 
 #### 2. **Slides**
-   - **Files**: `CS_1_Slides.pdf`
+   - **Files**: [CS_1_Slides.pdf](https://github.com/Princeu3/DSDA310_CaseStudies/blob/main/Case%20Study%201/CS%201%20Slides.pdf)
    - **Description**: A presentation summarizing the project, including an introduction, data overview, methodology, key findings, and recommendations. Designed for a 10-minute presentation to stakeholders.
 
 #### 3. **Code**
-   - **Files**: `CS_1_Code.ipynb`
+   - **Files**: [CS_1_Code.ipynb](https://github.com/Princeu3/DSDA310_CaseStudies/blob/main/Case%20Study%201/CS%201%20Code.ipynb)
    - **Description**: A Jupyter Notebook containing Python code for data cleaning, exploratory data analysis, regression modeling, and visualization. Tools like Tableau, Python libraries (e.g., Pandas, Matplotlib), and R are used for deeper analysis.
 
 #### 4. **Data**
-   - **Files**: `SDB Final Data.xlsx`
+   - **Files**: [CS_1_Data.xlsx](https://github.com/Princeu3/DSDA310_CaseStudies/blob/main/Case%20Study%201/SDB%20Final%20Data.xlsx)
    - **Description**: The dataset used in the analysis, containing student demographics, test scores, and other relevant variables. Includes pre-cleaned data ready for use in modeling and visualization.
 
 ### Key Insights
