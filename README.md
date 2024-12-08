@@ -141,6 +141,6 @@ Data for this project was provided by Dr. Rachel Bergstrom. We express gratitude
 
 ## How to Use This Repository
 
-**Run Code**: Open relevant Jupyter notebooks to replicate findings.
-**Review Reports**: Access the detailed PDF reports.
-**Collaborate**: Modify or expand projects for further analysis.
+1. **Run Code**: Open relevant Jupyter notebooks to replicate findings.
+2. **Review Reports**: Access the detailed PDF reports.
+3. **Collaborate**: Modify or expand projects for further analysis.
