@@ -22,34 +22,42 @@ This case study analyzes early childhood education data from the School District
      - `Final Report Case Study 1.pdf`
      - `DSDA Senior Seminar Case Study.docx`
    - **Description**:
-     - The detailed report discusses methodology, findings, and policy recommendations, including sections on data cleaning, regression modeling, and ethical considerations.
+     - The detailed report discusses the methodology, findings, and policy recommendations. It includes sections on data cleaning, descriptive statistics, regression modeling, and policy proposals. Ethical considerations are also addressed.
 
 #### 2. **Slides**
    - **Files**: `DSDA 300 Case Study 1.pdf`
-   - **Description**: Presentation summarizing the project, key findings, and recommendations.
+   - **Description**: A presentation summarizing the project, including an introduction, data overview, methodology, key findings, and recommendations. Designed for a 10-minute presentation to stakeholders.
 
 #### 3. **Code**
    - **Files**: `Case Study 1.ipynb`
-   - **Description**: Jupyter Notebook for data cleaning, analysis, and visualization.
+   - **Description**: A Jupyter Notebook containing Python code for data cleaning, exploratory data analysis, regression modeling, and visualization. Tools like Tableau, Python libraries (e.g., Pandas, Matplotlib), and R are used for deeper analysis.
 
 #### 4. **Data**
    - **Files**: `SDB Final Data.xlsx`
+   - **Description**: The dataset used in the analysis, containing student demographics, test scores, and other relevant variables. Includes pre-cleaned data ready for use in modeling and visualization.
 
 ### Key Insights
-- English proficiency and school designation strongly influence performance.
-- Challenges faced by special education students are highlighted.
+- **Research Questions**: How do factors such as school designation, special education status, English proficiency, and duration of residency in Beloit influence academic achievement among students?
+- **Findings**:
+  - English proficiency positively impacts academic achievement.
+  - Special education students face significant challenges.
+  - Families new to Beloit experience transitional difficulties affecting performance.
+- **Models**: Linear regression validate the significance of these variables.
 
 ### Policy Recommendations
-1. Enhance Special Education Programs.
-2. Implement English Language Development Programs.
-3. Strengthen Community Integration efforts.
+1. **Enhance Special Education Programs**: Increase resources, specialized staff, and adaptive materials.
+2. **English Language Support**: Implement comprehensive English Language Development Programs.
+3. **Community Integration**: Initiate orientation sessions and mentorship for new families.
 
+### Acknowledgments
+
+We extend our gratitude to Professor Phan for sharing the dataset and Professor Disha for guiding this study. AI tools were instrumental in streamlining data analysis and enhancing the precision of our models.
 ---
 
 ## Case Study 2: YouTube Analytics for Client Engagement
 
 ### Overview
-Analyzing YouTube Studio data for Nicole Martin Consulting Group to identify growth areas and enhance client engagement.
+This case study analyzes YouTube channel performance for Nicole Martin Consulting Group to enhance client engagement and highlight growth potential. By examining data from YouTube Studio for January to April in consecutive years, we identified patterns in viewer behavior, engagement, and traffic sources.
 
 ### Contents
 
@@ -57,29 +65,41 @@ Analyzing YouTube Studio data for Nicole Martin Consulting Group to identify gro
    - **Files**:
      - `Case Study 2 Report.pdf`
      - `Story of Conversion Loyalty.pdf`
-   - **Description**: Comprehensive analysis emphasizing audience trends, content engagement, and ROI insights.
+   - **Description**: Comprehensive analysis detailing key metrics, trends, and actionable recommendations for improving channel performance. The report tells a "story of strength" to emphasize growth and potential ROI for stakeholders.
 
 #### 2. **Slides**
    - **Files**: `Project Overview.pdf`
+   - **Description**: Presentation summarizing results, focusing on metrics like impressions, views, and audience engagement. Includes visually compelling slides for stakeholder communication.
 
 #### 3. **Data**
    - **Files**: `Compiled Data formatted.xlsx`
+   - **Description**: Dataset containing YouTube Studio metrics such as impressions, views, CTR, watch time, and audience demographics. Formatted for analysis without additional cleaning.
 
 ### Key Insights
-- Impressions grew by 26%.
-- Seasonal gaps led to a drop in unique viewers.
+- **Performance Metrics**
+  - Total views grew by 1.5% year-over-year.
+  - Impressions increased by 26%, driven by browse features and YouTube's algorithm.
+  - Unique viewers decreased due to seasonal content gaps, highlighting the need for year-round engagement strategies.
+    
+- **Audience Insights:**
+  - Male viewers dominate the audience (73%) but female viewers show higher engagement per session.
+  - Notifications boosted views by 150%, emphasizing the importance of subscriber alerts.
 
 ### Recommendations
-1. Consistent off-season content.
-2. Optimize content keywords and thumbnails.
-3. Engage loyal viewers with personalized notifications.
+1. Increase off-season postings like behind-the-scenes videos and sneak peeks to maintain viewer interest.
+2. Optimize thumbnails and keywords for better CTR and search visibility.
+3. Leverage returning viewers with personalized content and notifications.
+
+### Acknowledgments
+
+We thank Nicole Martin for providing data and Prof Disha for guidance throughout this analysis. The structured data enabled a seamless workflow.
 
 ---
 
 ## Case Study 3: EEG Signal Detection Using CNNs
 
 ### Overview
-Developing CNNs for seizure detection using EEG data from the Bonn dataset.
+This case study focuses on developing and applying Convolutional Neural Networks (CNNs) for detecting seizures using EEG data in Bonn Dataset. It highlights the use of machine learning to automate seizure detection and provides insights into neurological disorders.
 
 ### Contents
 
@@ -87,16 +107,34 @@ Developing CNNs for seizure detection using EEG data from the Bonn dataset.
    - **Files**:
      - `Case 3 Prince Yaksh.pdf`
      - `Case_Study_3_DSDA310.pdf`
-
+   - **Description**:
+     - Detailed report and presentation on the methodology, including data preprocessing, CNN architecture, and results. Insights into model accuracy and clinical applicability are discussed.
+       
 #### 2. **Code**
    - **Files**: `Case Study 3 (2).ipynb`
+   - **Description**: Jupyter Notebook implementing the CNN model, with steps for preprocessing, training, and evaluating EEG signal data.
+
+### 3. **Data**: 
+   - **Files**:
+   - **Description**: The study uses the Bonn EEG dataset, containing 500 full signals (400 seizures, 100 non-seizures) and 11,500 short signals (2,300 seizures, 9,200 non-seizures).
 
 ### Key Insights
-- Achieved 99% accuracy on short signals, 90% on full signals.
+- **Performance Metrics**
+   - Achieved 99% accuracy for short signals and 90% accuracy for full signals.
+   - High accuracy in detecting seizure patterns validates CNN effectiveness for clean, structured data.
+    
+- **Challenges:**
+   - Full signal accuracy was lower due to limited data.
+   - Future testing on noisy, real-world data is recommended.
 
 ### Recommendations
-1. Fine-tune CNN for real-world data.
-2. Create user-friendly clinical tools.
+1. Fine-tune CNN parameters for better accuracy on full signals.
+2. Test model on noisy datasets and real-world scenarios.
+3. Develop user-friendly interfaces for medical professionals.
+
+### Acknowledgments
+
+Data for this project was provided by Dr. Rachel Bergstrom. We express gratitude for her guidance and support.
 
 ---
 
@@ -105,13 +143,3 @@ Developing CNNs for seizure detection using EEG data from the Bonn dataset.
 1. **Run Code**: Open relevant Jupyter notebooks to replicate findings.
 2. **Review Reports**: Access the detailed PDF reports.
 3. **Collaborate**: Modify or expand projects for further analysis.
-
----
-
-## Acknowledgments
-We express gratitude to our mentors and collaborators for their guidance. Data was provided under strict confidentiality.
-
----
-
-## Ethical Considerations
-All projects uphold ethical guidelines on data privacy and equitable analysis.
